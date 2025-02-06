@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://www.Noticiastech.com/rss" rel="self" type="application/rss+xml" />
+        <title>Noticias Tech</title>
+        <link>https://www.Noticiastech.com/rss</link>
+        <description>La web de las noticias tecnológicas del día a día.</description>
+        <language>es</language>
+        <pubDate>Sat, 01 Feb 2025 11:00:00 EST</pubDate>
+        <lastBuildDate>Wed, 05 Feb 2025 12:00:00 EST</lastBuildDate>
+
+        <item>
+            <title>Detenido importante Hacker en España</title>
+            <link>https://www.larazon.es/espana/detenido-natohub-hacker-18-anos-que-robo-vendio-base-datos-guardia-civil_2025020567a3196d797cbb0001417b52.html</link>
+            <description>Detienen a "NatoHub", hacker de 18 años que vendió la base de datos de la Guardia Civil.</description>
+            <pubDate>Wed, 05 Feb 2025 09:05:52 EST</pubDate>
+            <guid>https://www.larazon.es/espana/detenido-natohub-hacker-18-anos-que-robo-vendio-base-datos-guardia-civil_2025020567a3196d797cbb0001417b52.html</guid>
+            <category>Interés Tecnología</category>
+            <author>antonio.serrano.barrera03@gmail.com (Antonio Serrano)</author>
+        </item>
+
+        <item>
+            <title>Anonymous ataca a Elon Musk</title>
+            <link>https://www.lavanguardia.com/internacional/20250204/10350203/anonymous-elon-musk.html</link>
+            <description>Anonymous revela la identidad de algunos de los colaboradores del Departamento de Musk.</description>
+            <pubDate>Wed, 05 Feb 2025 12:00:00 EST</pubDate>
+            <guid>https://www.lavanguardia.com/internacional/20250204/10350203/anonymous-elon-musk.html</guid>
+            <category>Interés Tecnología</category>
+            <author>antonio.serrano.barrera03@gmail.com (Antonio Serrano)</author>
+        </item>
+
+        <item>
+            <title>La IA en los ordenadores</title>
+            <link>https://elpais.com/tecnologia/2024-06-06/la-ia-conquista-los-ordenadores-asi-prometen-cambiarnos-la-vida-los-nuevos-pcs-inteligentes.html</link>
+            <description>La IA conquista los ordenadores: así prometen cambiarnos la vida los nuevos PCs inteligentes.</description>
+            <pubDate>Wed, 05 Feb 2025 12:00:00 EST</pubDate>
+            <guid>https://elpais.com/tecnologia/2024-06-06/la-ia-conquista-los-ordenadores-asi-prometen-cambiarnos-la-vida-los-nuevos-pcs-inteligentes.html</guid>
+            <category>IA</category>
+            <author>antonio.serrano.barrera03@gmail.com (Antonio Serrano)</author>
+        </item>
+    </channel>
+</rss>
